@@ -1,6 +1,4 @@
-
 const currentDate = document.querySelector(".date h1");
-
 const daysTag = document.querySelector(".days");
 const prevNextIcon = document.querySelectorAll(".month i");
 
